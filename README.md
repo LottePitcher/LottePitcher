@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello, I'm Lotte Pitcher 😊 
+
+If you use open source software, it's (almost) immoral not to contribute back to the open source ecosystem in _some_ way.
+
+- 🔭 I’m currently working on: a better GitHub profile page 😉
+- 💬 Ask me about: Umbraco Packages - I'm a member of the [Umbraco](https://umbraco.com/) community Package Team
+- 📫 Reach me: on twitter [@lottepitcher](https://www.twitter.com/lottepitcher)
+- 🎧 Listen to me: on the [Candid Contributions](https://candidcontributions.com/) podcast where we talk about being active contributors to OSS
 
 <!--
 **LottePitcher/LottePitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
