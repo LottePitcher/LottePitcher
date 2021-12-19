@@ -1,6 +1,6 @@
-Hello, I'm Lotte Pitcher 😊 🥕 🍄
+Hello, I'm Lotte Pitcher 😊 
 
-If you choose to use open source software, should you contribute back to the open source ecosystem in some way? There's many ways: code, documentation, reporting issues, testing other people's issues, attending meetups, writing blog posts...
+I'm a web developer from London, focusing on Umbraco and .NET development.
 
 - 🔭 I’m currently working on: a better GitHub profile page 😉
 - 💬 Ask me about: Umbraco Packages - I'm a member of the [Umbraco](https://umbraco.com/) community Package Team
