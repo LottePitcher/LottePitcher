@@ -4,7 +4,7 @@ I'm a web developer from London, focusing on Umbraco and .NET development.
 
 - 🔭 I’m currently working on: a better GitHub profile page 😉
 - 💬 Ask me about: Umbraco Packages - I'm a member of the [Umbraco](https://umbraco.com/) community Package Team
-- 📫 Reach me: on twitter [@lottepitcher](https://www.twitter.com/lottepitcher)
+- 📫 Reach me: on twitter [@lottepitcher](https://www.twitter.com/lottepitcher) and on Mastodon [https://hachyderm.io/@lottepitcher](https://hachyderm.io/@lottepitcher)
 - 🎧 Listen to me: on the [Candid Contributions](https://candidcontributions.com/) podcast where we talk about being active contributors to open source
 
 <!--
